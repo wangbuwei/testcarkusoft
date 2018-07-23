@@ -1,3 +1,4 @@
 <?php
-echo "Hello Carkusoft";
+echo '22';
+var_dump('22');
 ?>
